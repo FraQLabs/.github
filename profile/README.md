@@ -9,7 +9,7 @@ But, I am a good software engineer. So, algo trading to the rescue.
 2. Frugality: Avoid costs.
 
 For example, I have evaluated StockSharp and QuantConnect platforms. 
-Both offer free and open source versions. However they are ultimately built to drive you to paid plans, hence violating the frugality guideline.
+Both offer free and open source versions. However they are ultimately built to drive you to paid plans, hence violating both guidelines.
 
 Another example is data. To find the edge in algo trading, historial data is a must.
 There are many paid data providers, but I try to avoid them as much as possible, and rely on free data sources.
