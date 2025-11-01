@@ -15,7 +15,7 @@ Another example is data. To find the edge in algo trading, historial data is a m
 There are many paid data providers, but I try to avoid them as much as possible, and rely on free data sources.
 
 ## Objective
-Create a suite of software components that facilitate algorithmic trading.
+Create a suite of software components that facilitate alpha discovery.
 
 ---
 **Interested?** 
