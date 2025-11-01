@@ -19,4 +19,4 @@ Create a suite of software components that facilitate alpha discovery.
 
 ---
 **Interested?** 
-Email: franco.tiveron@gmail.com
+💬 Interested? [Start a new discussion](https://github.com/.github/AlgoSuite/discussions/new).
