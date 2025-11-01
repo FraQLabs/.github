@@ -19,4 +19,4 @@ Create a suite of software components that facilitate alpha discovery.
 
 ---
 **Interested?** 
-💬 Interested? [Start a new discussion](https://github.com/.github/AlgoSuite/discussions/new).
+[Start a new discussion](https://github.com/.github/AlgoSuite/discussions/new).
